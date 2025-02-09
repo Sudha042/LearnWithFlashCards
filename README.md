@@ -5,6 +5,8 @@
 
 An **intelligent flashcard web application** designed to help users **create, review, track progress**, and receive **AI-based suggestions** for enhanced learning. Leveraging **TF-IDF similarity-based recommendations**, this system makes studying smarter and more effective!  
 
+![flashcard](https://github.com/user-attachments/assets/ebbc27ed-7786-4244-93aa-70526403ba4b)
+
 ---
 
 ## 🌟 **Key Features**  
