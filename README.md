@@ -1,7 +1,7 @@
 
 
 
-# 🎓 **AI-Powered Flashcard Learning System** 🚀  
+# 🎓 **Learn with Flashcard System** 🚀  
 
 An **intelligent flashcard web application** designed to help users **create, review, track progress**, and receive **AI-based suggestions** for enhanced learning. Leveraging **TF-IDF similarity-based recommendations**, this system makes studying smarter and more effective!  
 
